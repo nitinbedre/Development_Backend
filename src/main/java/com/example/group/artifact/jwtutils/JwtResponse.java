@@ -7,7 +7,7 @@ public class JwtResponse implements Serializable {
     String jwtToken;
 
     public JwtResponse() {
-        
+        System.out.println("JWT");
     }
     
     public JwtResponse(String jwtToken) {
