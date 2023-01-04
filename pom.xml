@@ -12,6 +12,7 @@
 	<artifactId>artifact</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Security</name>
+	<packaging>jar</packaging>
 	<description>Security Demo project for Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
