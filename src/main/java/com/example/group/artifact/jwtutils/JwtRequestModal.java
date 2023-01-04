@@ -30,7 +30,7 @@ public class JwtRequestModal implements Serializable{
 
     @Override
     public String toString() {
-        return "JwtRequestModal [username=" + username + ", password=" + password + "]";
+        return "JwtRequest [username=" + username + ", password=" + password + "]";
     } 
     
     
